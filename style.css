@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    background:rgb(239, 239, 236);
+}
+body{
+    background-color: chartreuse;
+    width:950px;
+    text-align: center;
+    padding: 50px;
+    border:50px;
+    margin:20px auto;
+
+}
+.row{
+    background-color:rgb(239, 243, 11);
+    text-align: center;
+    border: 3px solid black;
+    padding: 60px 5px;
+    margin: 30px auto;
+  
+}
+.card-body{
+    background-color: grey;
+    
+}
+.card-img-top{
+    height:100px;
+    width:100%
+}
+.col-md-4{
+
+height: 400px;
+}
